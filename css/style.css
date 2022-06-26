@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 60vw;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.columns {
+  display: flex;
+}
+
+img {
+  width: 100%;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFNBQVM7RUFDVCxVQUFVO0FDQ2Q7O0FEQ0E7RUFDSSxXQUFXO0VBQ1gsY0FBYztFQUNkLHVCQUF1QjtBQ0UzQjs7QURBQTtFQUNJLGFBQWE7QUNHakI7O0FEREE7RUFDSSxXQUFXO0FDSWYiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
